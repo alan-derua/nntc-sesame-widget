@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sesame</string>
+    <string name="open_sesame">OPEN SESAME</string>
+    <string name="your_android_id">Your Android ID</string>
+    <string name="copy">Copy</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="request_successful">Request successfully sent</string>
+    <string name="request_fail">Request failed</string>
+</resources>

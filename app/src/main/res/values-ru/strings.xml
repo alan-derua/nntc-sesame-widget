@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сезам</string>
+    <string name="copied_to_clipboard">Скопировано в буфер</string>
+    <string name="copy">Копировать</string>
+    <string name="open_sesame">СЕЗАМ, ОТКРОЙСЯ</string>
+    <string name="request_fail">Ошибка при выполнении запроса</string>
+    <string name="request_successful">Запрос успешно отправлен</string>
+    <string name="your_android_id">Ваш Android ID</string>
+</resources>
